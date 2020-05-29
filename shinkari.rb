@@ -42,5 +42,5 @@ num = 0
 animals.each do |animal|
   number = number + 1
 end
-number = 5
+number = 4
   
